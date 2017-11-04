@@ -1,0 +1,2 @@
+# LeetCode
+Pretty self explanatory
